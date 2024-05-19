@@ -1,0 +1,8 @@
+void main() 
+{
+    String isim = 'Seden Acar';
+    int yas = 23;
+    double blm = 2.4;
+    bool resit = true;
+    print('Ben ${isim}, benim yaşım ${yas} . Reşitlik durmum: ${resit}');
+}
